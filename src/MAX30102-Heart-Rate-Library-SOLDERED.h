@@ -13,20 +13,16 @@
 #define __SENSOR_MAX30102__
 
 #include "Arduino.h"
-#include "libs/SparkFun_MAX3010x_Sensor_Library-master/src/MAX30105.h"
+#include "libs/SparkFun_Bio_Sensor_Hub_Library-1.0.5/src/SparkFun_Bio_Sensor_Hub_Library.h"
 
-class MAX30102 : public MAX30105
+class MAX30102 : public SparkFun_Bio_Sensor_Hub
 {
   public:
-    MAX30102(int _pin);
-    MAX30102();
+    MAX30102(uint16_t, uint16_t, uint8_t address = 0x55);
 
   protected:
-    void initializeNative();
 
   private:
-    int pin;
-    int native;
 };
 
 #endif

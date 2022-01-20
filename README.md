@@ -37,7 +37,7 @@ At Soldered, we design and manufacture a wide selection of electronic products t
 
 ### Original source
 ​
-This library is possible thanks to original [MAX3010X sensor library](https://github.com/sparkfun/SparkFun_MAX3010x_Sensor_Library) library. Thank you, Sparkfun Electronics. 
+This library is possible thanks to original [SparkFun_Bio_Sensor_Hub_Library](https://github.com/sparkfun/SparkFun_Bio_Sensor_Hub_Library) library. Thank you, Sparkfun Electronics. 
 
 
 ### Open-source license
