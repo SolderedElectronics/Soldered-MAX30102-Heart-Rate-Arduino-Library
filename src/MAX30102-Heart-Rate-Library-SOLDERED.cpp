@@ -12,25 +12,8 @@
 
 #include "MAX30102-Heart-Rate-Library-SOLDERED.h"
 
-MAX30102::MAX30102()
-{
-}
 
-/**
- * @brief                   Sensor specific native constructor.
- *
- * @param int _pin          Example parameter.
- */
-MAX30102::MAX30102(int _pin)
+MAX30102::MAX30102(uint16_t resetPin, uint16_t mfioPin , uint8_t address) : SparkFun_Bio_Sensor_Hub(resetPin, mfioPin, address)
 {
-    pin = _pin;
-    native = 1;
-}
-
-/**
- * @brief                   Overloaded function for virtual in base class to initialize sensor specific.
- */
-void MAX30102::initializeNative()
-{
-    pinMode(pin, INPUT);
+    SparkFun_Bio_Sensor_Hub(resetPin, mfioPin, address);
 }
