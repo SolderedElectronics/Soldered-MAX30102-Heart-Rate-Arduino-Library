@@ -13,7 +13,6 @@
 #define __SENSOR_MAX30102__
 
 #include "Arduino.h"
-#include "libs/Generic-easyC/easyC.h"
 #include "libs/SparkFun_MAX3010x_Sensor_Library-master/src/MAX30105.h"
 
 class MAX30102 : public MAX30105
