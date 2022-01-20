@@ -125,7 +125,7 @@ void loop()
       while (particleSensor.available() == false) //do we have new data?
         particleSensor.check(); //Check the sensor for new data
 
-      digitalWrite(readLED, !digitalRead(readLED)); //Blink onboard LED with every data read
+      //digitalWrite(readLED, !digitalRead(readLED)); //Blink onboard LED with every data read, uncomment if necessary
 
       redBuffer[i] = particleSensor.getRed();
       irBuffer[i] = particleSensor.getIR();
