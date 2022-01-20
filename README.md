@@ -15,7 +15,7 @@ MAX30102 compliant with [easyC ecosystem](https://www.soldered.com/easyC).
 - ***other*** - *keywords* file highlights function words in your IDE, *library.properties* enables implementation with Arduino Library Manager.
 
 ### Hardware design
-You can find hardware design for this board in NAZIV PROIZVODA hardware repository
+You can find hardware design for this board in MAX30102 hardware repository
 
 ### Documentation
 
