@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['else_0',['else',['../spo2__algorithm_8cpp.html#a0544c3fe466e421738dae463968b70ba',1,'spo2_algorithm.cpp']]]
+  ['confidence_0',['confidence',['../structbio_data.html#a175fd43c9075cd26d250b376762102fb',1,'bioData']]]
 ];

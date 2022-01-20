@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['k_0',['k',['../spo2__algorithm_8cpp.html#a9d3ec455a459330ef01071eb476c3b36',1,'spo2_algorithm.cpp']]]
+  ['oxygen_0',['oxygen',['../structbio_data.html#a90d415eb4d952b2ae97f2a152c8eb5b0',1,'bioData']]]
 ];

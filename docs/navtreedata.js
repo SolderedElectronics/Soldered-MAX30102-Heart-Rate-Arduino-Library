@@ -26,10 +26,6 @@ var NAVTREE =
 [
   [ "MAX30102 Library", "index.html", [
     [ "MAX30102 Arduino library", "index.html", null ],
-    [ "SparkFun License Information", "md_src_libs__spark_fun__m_a_x3010x__sensor__library_master__l_i_c_e_n_s_e.html", [
-      [ "Hardware", "md_src_libs__spark_fun__m_a_x3010x__sensor__library_master__l_i_c_e_n_s_e.html#autotoc_md7", null ],
-      [ "Code", "md_src_libs__spark_fun__m_a_x3010x__sensor__library_master__l_i_c_e_n_s_e.html#autotoc_md8", null ]
-    ] ],
     [ "Classes", "annotated.html", [
       [ "Class List", "annotated.html", "annotated_dup" ],
       [ "Class Index", "classes.html", null ],
@@ -37,16 +33,16 @@ var NAVTREE =
       [ "Class Members", "functions.html", [
         [ "All", "functions.html", null ],
         [ "Functions", "functions_func.html", null ],
-        [ "Variables", "functions_vars.html", null ],
-        [ "Typedefs", "functions_type.html", null ]
+        [ "Variables", "functions_vars.html", null ]
       ] ]
     ] ],
     [ "Files", "files.html", [
       [ "File List", "files.html", "files_dup" ],
       [ "File Members", "globals.html", [
         [ "All", "globals.html", null ],
-        [ "Functions", "globals_func.html", null ],
-        [ "Variables", "globals_vars.html", null ]
+        [ "Variables", "globals_vars.html", null ],
+        [ "Enumerations", "globals_enum.html", null ],
+        [ "Enumerator", "globals_eval.html", null ]
       ] ]
     ] ]
   ] ]
@@ -54,8 +50,7 @@ var NAVTREE =
 
 var NAVTREEINDEX =
 [
-"_m_a_x30102-_heart-_rate-_library-_s_o_l_d_e_r_e_d_8cpp.html",
-"spo2__algorithm_8h.html#a44b6312f81810d4deb64071d12ab0060"
+"_m_a_x30102-_heart-_rate-_library-_s_o_l_d_e_r_e_d_8cpp.html"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';

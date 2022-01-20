@@ -1,0 +1,19 @@
+var searchData=
+[
+  ['sample_5fsize_0',['SAMPLE_SIZE',['../_spark_fun___bio___sensor___hub___library_8h.html#a3c495be7ea2f56f4924a7101fbbca6edafa6fe80ba0823b385ad954880c0b0a3f',1,'SparkFun_Bio_Sensor_Hub_Library.h']]],
+  ['send_5fpage_5fvalue_1',['SEND_PAGE_VALUE',['../_spark_fun___bio___sensor___hub___library_8h.html#af17407f9ba51fd180c5033e3651a0d94a5555058f6fd8904d32b5771105d43fa5',1,'SparkFun_Bio_Sensor_Hub_Library.h']]],
+  ['sensor_5falgo_5fcounter_2',['SENSOR_ALGO_COUNTER',['../_spark_fun___bio___sensor___hub___library_8h.html#ab9ee6a02b1a9bf82bd55053fc2686e92af2415e5cc120bdaae380ec687340b0fb',1,'SparkFun_Bio_Sensor_Hub_Library.h']]],
+  ['sensor_5fand_5falgorithm_3',['SENSOR_AND_ALGORITHM',['../_spark_fun___bio___sensor___hub___library_8h.html#ab9ee6a02b1a9bf82bd55053fc2686e92a361a715c5a4084a5bee6b03e223bb148',1,'SparkFun_Bio_Sensor_Hub_Library.h']]],
+  ['sensor_5fcounter_5fbyte_4',['SENSOR_COUNTER_BYTE',['../_spark_fun___bio___sensor___hub___library_8h.html#ab9ee6a02b1a9bf82bd55053fc2686e92afee55737b1699b9034489017d984e249',1,'SparkFun_Bio_Sensor_Hub_Library.h']]],
+  ['sensor_5fdata_5',['SENSOR_DATA',['../_spark_fun___bio___sensor___hub___library_8h.html#ab9ee6a02b1a9bf82bd55053fc2686e92aa8ba55203a30122cc271cc66b2909b21',1,'SparkFun_Bio_Sensor_Hub_Library.h']]],
+  ['set_5fauth_5fbytes_6',['SET_AUTH_BYTES',['../_spark_fun___bio___sensor___hub___library_8h.html#af17407f9ba51fd180c5033e3651a0d94a8b25fd0c729995029235b5f9f73e122b',1,'SparkFun_Bio_Sensor_Hub_Library.h']]],
+  ['set_5favg_5fsamples_7',['SET_AVG_SAMPLES',['../_spark_fun___bio___sensor___hub___library_8h.html#a6714140eec395ff45bf5b5a4726ff8a2a1b79a1f1bc88d8b209445dadff6c1387',1,'SparkFun_Bio_Sensor_Hub_Library.h']]],
+  ['set_5fdevice_5fmode_8',['SET_DEVICE_MODE',['../_spark_fun___bio___sensor___hub___library_8h.html#a47c63bbc76c0aea873be6ce56f30f669a82d23ce6f9b0f1b6d7b7aeb1bcb7d159',1,'SparkFun_Bio_Sensor_Hub_Library.h']]],
+  ['set_5finit_5fvector_5fbytes_9',['SET_INIT_VECTOR_BYTES',['../_spark_fun___bio___sensor___hub___library_8h.html#af17407f9ba51fd180c5033e3651a0d94acc12f5d67e8947f08f169a0a51f52135',1,'SparkFun_Bio_Sensor_Hub_Library.h']]],
+  ['set_5fnum_5fpages_10',['SET_NUM_PAGES',['../_spark_fun___bio___sensor___hub___library_8h.html#af17407f9ba51fd180c5033e3651a0d94a5b233bf87852016fa64d41240fb0e3af',1,'SparkFun_Bio_Sensor_Hub_Library.h']]],
+  ['set_5fpulse_5fox_5fcoef_11',['SET_PULSE_OX_COEF',['../_spark_fun___bio___sensor___hub___library_8h.html#a6714140eec395ff45bf5b5a4726ff8a2abd66ba2113e1f352000db13306669d09',1,'SparkFun_Bio_Sensor_Hub_Library.h']]],
+  ['set_5fsensitivity_12',['SET_SENSITIVITY',['../_spark_fun___bio___sensor___hub___library_8h.html#a6714140eec395ff45bf5b5a4726ff8a2a392d440fbe3a8fdc4a641b7e82bc3850',1,'SparkFun_Bio_Sensor_Hub_Library.h']]],
+  ['set_5fstep_5fsize_13',['SET_STEP_SIZE',['../_spark_fun___bio___sensor___hub___library_8h.html#a6714140eec395ff45bf5b5a4726ff8a2a8f3ab258306c82c3d2621ee96b02a1ab',1,'SparkFun_Bio_Sensor_Hub_Library.h']]],
+  ['set_5ftarg_5fperc_14',['SET_TARG_PERC',['../_spark_fun___bio___sensor___hub___library_8h.html#a6714140eec395ff45bf5b5a4726ff8a2a99ac875c8611bb76927efd9ec05f05af',1,'SparkFun_Bio_Sensor_Hub_Library.h']]],
+  ['success_15',['SUCCESS',['../_spark_fun___bio___sensor___hub___library_8h.html#af58856358e4dc186253f4014fd0b653aac7f69f7c9e5aea9b8f54cf02870e2bf8',1,'SparkFun_Bio_Sensor_Hub_Library.h']]]
+];

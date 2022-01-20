@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['record_0',['Record',['../struct_m_a_x30105_1_1_record.html',1,'MAX30105']]]
+  ['max30102_0',['MAX30102',['../class_m_a_x30102.html',1,'']]]
 ];

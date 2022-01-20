@@ -1,5 +1,5 @@
 var searchData=
 [
-  ['begin_0',['begin',['../class_m_a_x30105.html#ac0c8b46b41bdd9b7833e2e0c00b1e0b9',1,'MAX30105']]],
-  ['bitmask_1',['bitMask',['../class_m_a_x30105.html#ae6f5a001ad5d1f6a307aed9243b1ce0d',1,'MAX30105']]]
+  ['begin_0',['begin',['../class_spark_fun___bio___sensor___hub.html#a37797b13c40e5ccb82b4f8507fc13b94',1,'SparkFun_Bio_Sensor_Hub']]],
+  ['beginbootloader_1',['beginBootloader',['../class_spark_fun___bio___sensor___hub.html#a230175f8c6909b7f8128ef0b7a2889bd',1,'SparkFun_Bio_Sensor_Hub']]]
 ];

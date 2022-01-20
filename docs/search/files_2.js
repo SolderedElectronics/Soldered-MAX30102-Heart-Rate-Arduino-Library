@@ -1,7 +1,6 @@
 var searchData=
 [
-  ['max30102_2dheart_2drate_2dlibrary_2dsoldered_2ecpp_0',['MAX30102-Heart-Rate-Library-SOLDERED.cpp',['../_m_a_x30102-_heart-_rate-_library-_s_o_l_d_e_r_e_d_8cpp.html',1,'']]],
-  ['max30102_2dheart_2drate_2dlibrary_2dsoldered_2eh_1',['MAX30102-Heart-Rate-Library-SOLDERED.h',['../_m_a_x30102-_heart-_rate-_library-_s_o_l_d_e_r_e_d_8h.html',1,'']]],
-  ['max30105_2ecpp_2',['MAX30105.cpp',['../_m_a_x30105_8cpp.html',1,'']]],
-  ['max30105_2eh_3',['MAX30105.h',['../_m_a_x30105_8h.html',1,'']]]
+  ['readme_2emd_0',['README.md',['../src_2libs_2_spark_fun___bio___sensor___hub___library-1_80_85_2_r_e_a_d_m_e_8md.html',1,'']]],
+  ['sparkfun_5fbio_5fsensor_5fhub_5flibrary_2ecpp_1',['SparkFun_Bio_Sensor_Hub_Library.cpp',['../_spark_fun___bio___sensor___hub___library_8cpp.html',1,'']]],
+  ['sparkfun_5fbio_5fsensor_5fhub_5flibrary_2eh_2',['SparkFun_Bio_Sensor_Hub_Library.h',['../_spark_fun___bio___sensor___hub___library_8h.html',1,'']]]
 ];

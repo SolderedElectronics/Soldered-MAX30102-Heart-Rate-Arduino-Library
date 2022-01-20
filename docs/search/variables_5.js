@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['green_0',['green',['../struct_m_a_x30105_1_1_record.html#a4d98c6ae4c79accf46adbe19a46b62dd',1,'MAX30105::Record']]]
+  ['heartrate_0',['heartRate',['../structbio_data.html#a676e33994d5368fb3e9ec5b1592f16c6',1,'bioData']]]
 ];

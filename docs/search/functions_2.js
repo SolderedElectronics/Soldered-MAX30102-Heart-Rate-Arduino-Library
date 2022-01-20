@@ -1,6 +1,6 @@
 var searchData=
 [
-  ['check_0',['check',['../class_m_a_x30105.html#ac21d3790ffc240609844363748de3df7',1,'MAX30105']]],
-  ['checkforbeat_1',['checkForBeat',['../heart_rate_8cpp.html#a83abdb9881ef7887abffdbf639539572',1,'checkForBeat(int32_t sample):&#160;heartRate.cpp'],['../heart_rate_8h.html#a83abdb9881ef7887abffdbf639539572',1,'checkForBeat(int32_t sample):&#160;heartRate.cpp']]],
-  ['clearfifo_2',['clearFIFO',['../class_m_a_x30105.html#a427b18d0aff0b869be5d6bd4769d80d5',1,'MAX30105']]]
+  ['configbpm_0',['configBpm',['../class_spark_fun___bio___sensor___hub.html#a7e6bfe26dea8fc2c7413ea4b56d9065f',1,'SparkFun_Bio_Sensor_Hub']]],
+  ['configsensor_1',['configSensor',['../class_spark_fun___bio___sensor___hub.html#a1a4331171cdc46f226fe76ad2c902d5a',1,'SparkFun_Bio_Sensor_Hub']]],
+  ['configsensorbpm_2',['configSensorBpm',['../class_spark_fun___bio___sensor___hub.html#ab01a30426675d4deed04049a5d8c6dab',1,'SparkFun_Bio_Sensor_Hub']]]
 ];

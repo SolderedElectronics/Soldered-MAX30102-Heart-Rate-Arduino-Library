@@ -1,10 +1,10 @@
 var searchData=
 [
-  ['disableafull_0',['disableAFULL',['../class_m_a_x30105.html#abca044de513ad2da5730b5eb2fc3c14d',1,'MAX30105']]],
-  ['disablealcovf_1',['disableALCOVF',['../class_m_a_x30105.html#a6bb5273dc70fc81f41eea9ee8f766bdb',1,'MAX30105']]],
-  ['disabledatardy_2',['disableDATARDY',['../class_m_a_x30105.html#a42024226d54a1860b5eba25a17f4f1ca',1,'MAX30105']]],
-  ['disabledietemprdy_3',['disableDIETEMPRDY',['../class_m_a_x30105.html#a7f3b0493cd3eca482769d22b69a99f43',1,'MAX30105']]],
-  ['disablefiforollover_4',['disableFIFORollover',['../class_m_a_x30105.html#a2fdd0856a40356c004b4e3b86dcfb833',1,'MAX30105']]],
-  ['disableproxint_5',['disablePROXINT',['../class_m_a_x30105.html#ad34e2450fd68c05211c47d82e1e03ba3',1,'MAX30105']]],
-  ['disableslots_6',['disableSlots',['../class_m_a_x30105.html#a69dab5ecd8b11f0c9b4c0b810d88bafb',1,'MAX30105']]]
+  ['device_5fmode_5fwrite_5fbytes_0',['DEVICE_MODE_WRITE_BYTES',['../_spark_fun___bio___sensor___hub___library_8h.html#a168910036fa7d267d9c4bdaefa7456c2',1,'SparkFun_Bio_Sensor_Hub_Library.h']]],
+  ['dump_5fregister_5faccelerometer_1',['DUMP_REGISTER_ACCELEROMETER',['../_spark_fun___bio___sensor___hub___library_8h.html#a017099fa9068fb86300e7fb3c82575d2a7e8d5001fc0b02c94fa71963b3e63b23',1,'SparkFun_Bio_Sensor_Hub_Library.h']]],
+  ['dump_5fregister_5findex_5fbyte_2',['DUMP_REGISTER_INDEX_BYTE',['../_spark_fun___bio___sensor___hub___library_8h.html#a017099fa9068fb86300e7fb3c82575d2',1,'SparkFun_Bio_Sensor_Hub_Library.h']]],
+  ['dump_5fregister_5fmax30101_3',['DUMP_REGISTER_MAX30101',['../_spark_fun___bio___sensor___hub___library_8h.html#a017099fa9068fb86300e7fb3c82575d2a4df41d5eb06c73aafcac6b827f6dfe6d',1,'SparkFun_Bio_Sensor_Hub_Library.h']]],
+  ['dump_5fregisters_4',['DUMP_REGISTERS',['../_spark_fun___bio___sensor___hub___library_8h.html#a47c63bbc76c0aea873be6ce56f30f669a4a617a0ff1fdbe914a6f31fedaddf8e3',1,'SparkFun_Bio_Sensor_Hub_Library.h']]],
+  ['dumpregisteraccelerometer_5',['dumpRegisterAccelerometer',['../class_spark_fun___bio___sensor___hub.html#a5700d74a84358822e3cc5e3dd389a9b0',1,'SparkFun_Bio_Sensor_Hub']]],
+  ['dumpregistermax30101_6',['dumpRegisterMAX30101',['../class_spark_fun___bio___sensor___hub.html#a091379c4b43f10377810e876aa9cf7f2',1,'SparkFun_Bio_Sensor_Hub']]]
 ];

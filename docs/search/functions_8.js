@@ -1,4 +1,26 @@
 var searchData=
 [
-  ['lowpassfirfilter_0',['lowPassFIRFilter',['../heart_rate_8cpp.html#a6cedece0bbb86fa19985f9ea4b3927f2',1,'lowPassFIRFilter(int16_t din):&#160;heartRate.cpp'],['../heart_rate_8h.html#a6cedece0bbb86fa19985f9ea4b3927f2',1,'lowPassFIRFilter(int16_t din):&#160;heartRate.cpp']]]
+  ['readadcrange_0',['readAdcRange',['../class_spark_fun___bio___sensor___hub.html#a6f2891638f1a2af2c898a7bae01ff2c3',1,'SparkFun_Bio_Sensor_Hub']]],
+  ['readalgorange_1',['readAlgoRange',['../class_spark_fun___bio___sensor___hub.html#a06d90dfd47649f85f15c618c535fd868',1,'SparkFun_Bio_Sensor_Hub']]],
+  ['readalgorithmversion_2',['readAlgorithmVersion',['../class_spark_fun___bio___sensor___hub.html#a111334bc388831ae39bd165c8c0bf617',1,'SparkFun_Bio_Sensor_Hub']]],
+  ['readalgosamples_3',['readAlgoSamples',['../class_spark_fun___bio___sensor___hub.html#af77a0c69b3594923ac2c548870acf86b',1,'SparkFun_Bio_Sensor_Hub']]],
+  ['readalgosensitivity_4',['readAlgoSensitivity',['../class_spark_fun___bio___sensor___hub.html#a9181485cdbd39032d102784249d91119',1,'SparkFun_Bio_Sensor_Hub']]],
+  ['readalgostepsize_5',['readAlgoStepSize',['../class_spark_fun___bio___sensor___hub.html#af55de1688ae21e04e219a2eebefd3d64',1,'SparkFun_Bio_Sensor_Hub']]],
+  ['readbootloadervers_6',['readBootloaderVers',['../class_spark_fun___bio___sensor___hub.html#a51e9bb60889e52dd4064d8d2a0be85da',1,'SparkFun_Bio_Sensor_Hub']]],
+  ['readbpm_7',['readBpm',['../class_spark_fun___bio___sensor___hub.html#a78a19efdd14569eb83515c41af21e873',1,'SparkFun_Bio_Sensor_Hub']]],
+  ['readbyte_8',['readByte',['../class_spark_fun___bio___sensor___hub.html#aaa6a382ba5107f88d5cc97ed989bbcd2',1,'SparkFun_Bio_Sensor_Hub::readByte(uint8_t, uint8_t)'],['../class_spark_fun___bio___sensor___hub.html#a2051d7ed3065369d1e7ecb3a5eb5fb94',1,'SparkFun_Bio_Sensor_Hub::readByte(uint8_t, uint8_t, uint8_t)']]],
+  ['readfillarray_9',['readFillArray',['../class_spark_fun___bio___sensor___hub.html#af4d54cf638d50cac39fee26413145444',1,'SparkFun_Bio_Sensor_Hub']]],
+  ['readintbyte_10',['readIntByte',['../class_spark_fun___bio___sensor___hub.html#aa359270079d7891c30765bd38ec35e60',1,'SparkFun_Bio_Sensor_Hub']]],
+  ['readlongbyte_11',['readLongByte',['../class_spark_fun___bio___sensor___hub.html#a1a4565c7da60d0c637a53382c19fd325',1,'SparkFun_Bio_Sensor_Hub']]],
+  ['readmax30101state_12',['readMAX30101State',['../class_spark_fun___bio___sensor___hub.html#a89a87e9710379a90b6ef52849cc77455',1,'SparkFun_Bio_Sensor_Hub']]],
+  ['readmaximfastcoef_13',['readMaximFastCoef',['../class_spark_fun___bio___sensor___hub.html#a6638cb371753c47d583941206dd3084d',1,'SparkFun_Bio_Sensor_Hub']]],
+  ['readmultiplebytes_14',['readMultipleBytes',['../class_spark_fun___bio___sensor___hub.html#a2cd1e71a27e2aa1e3f9e0789c963ddcc',1,'SparkFun_Bio_Sensor_Hub']]],
+  ['readpulsewidth_15',['readPulseWidth',['../class_spark_fun___bio___sensor___hub.html#a25d8e01eea6abaae9688cb90e8d3e04c',1,'SparkFun_Bio_Sensor_Hub']]],
+  ['readregisteraccel_16',['readRegisterAccel',['../class_spark_fun___bio___sensor___hub.html#a2e87127e9c4a024d02ef53ff8c556db9',1,'SparkFun_Bio_Sensor_Hub']]],
+  ['readregistermax30101_17',['readRegisterMAX30101',['../class_spark_fun___bio___sensor___hub.html#ad8d79eb1204cedbea1dadd17dda0bfab',1,'SparkFun_Bio_Sensor_Hub']]],
+  ['readsamplerate_18',['readSampleRate',['../class_spark_fun___bio___sensor___hub.html#add2ab2d32569737e496b46dc05b769a7',1,'SparkFun_Bio_Sensor_Hub']]],
+  ['readsensor_19',['readSensor',['../class_spark_fun___bio___sensor___hub.html#abec3c989ef505b6adceed46969cdae17',1,'SparkFun_Bio_Sensor_Hub']]],
+  ['readsensorbpm_20',['readSensorBpm',['../class_spark_fun___bio___sensor___hub.html#a25b2cd68988936974d3a01e13ae8e0b2',1,'SparkFun_Bio_Sensor_Hub']]],
+  ['readsensorhubstatus_21',['readSensorHubStatus',['../class_spark_fun___bio___sensor___hub.html#a1ff2a38b1e5649c1b8ff3096ad8009a0',1,'SparkFun_Bio_Sensor_Hub']]],
+  ['readsensorhubversion_22',['readSensorHubVersion',['../class_spark_fun___bio___sensor___hub.html#a6edbe84510a6e6a99ff5dcbf9c906584',1,'SparkFun_Bio_Sensor_Hub']]]
 ];

@@ -1,7 +1,9 @@
 var hierarchy =
 [
-    [ "MAX30105", "class_m_a_x30105.html", [
+    [ "bioData", "structbio_data.html", null ],
+    [ "sensorAttr", "structsensor_attr.html", null ],
+    [ "SparkFun_Bio_Sensor_Hub", "class_spark_fun___bio___sensor___hub.html", [
       [ "MAX30102", "class_m_a_x30102.html", null ]
     ] ],
-    [ "MAX30105::Record", "struct_m_a_x30105_1_1_record.html", null ]
+    [ "version", "structversion.html", null ]
 ];

@@ -1,6 +1,5 @@
 var searchData=
 [
-  ['head_0',['head',['../struct_m_a_x30105_1_1_record.html#ad98694822409ec649a017a3c61e0523a',1,'MAX30105::Record']]],
-  ['heartrate_2ecpp_1',['heartRate.cpp',['../heart_rate_8cpp.html',1,'']]],
-  ['heartrate_2eh_2',['heartRate.h',['../heart_rate_8h.html',1,'']]]
+  ['heartrate_0',['heartRate',['../structbio_data.html#a676e33994d5368fb3e9ec5b1592f16c6',1,'bioData']]],
+  ['hub_5fstatus_1',['HUB_STATUS',['../_spark_fun___bio___sensor___hub___library_8h.html#a47c63bbc76c0aea873be6ce56f30f669a2d14c0d2219bc2b52de5284778e552b8',1,'SparkFun_Bio_Sensor_Hub_Library.h']]]
 ];
