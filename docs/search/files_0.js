@@ -1,5 +1,5 @@
 var searchData=
 [
-  ['easyc_2ecpp_0',['easyC.cpp',['../easy_c_8cpp.html',1,'']]],
-  ['easyc_2eh_1',['easyC.h',['../easy_c_8h.html',1,'']]]
+  ['heartrate_2ecpp_0',['heartRate.cpp',['../heart_rate_8cpp.html',1,'']]],
+  ['heartrate_2eh_1',['heartRate.h',['../heart_rate_8h.html',1,'']]]
 ];

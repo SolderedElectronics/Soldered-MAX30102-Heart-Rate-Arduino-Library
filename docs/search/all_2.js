@@ -1,4 +1,5 @@
 var searchData=
 [
-  ['defaultaddress_0',['defaultAddress',['../class_e_a_s_y_c___s_o_l_d_e_r_e_d___l_i_b_s_1_1_easy_c.html#a38ee1abeef1f1471b7df9839db0ffba2',1,'EASYC_SOLDERED_LIBS::EasyC']]]
+  ['begin_0',['begin',['../class_m_a_x30105.html#ac0c8b46b41bdd9b7833e2e0c00b1e0b9',1,'MAX30105']]],
+  ['bitmask_1',['bitMask',['../class_m_a_x30105.html#ae6f5a001ad5d1f6a307aed9243b1ce0d',1,'MAX30105']]]
 ];

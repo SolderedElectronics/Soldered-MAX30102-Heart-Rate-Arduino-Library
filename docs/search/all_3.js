@@ -1,8 +1,7 @@
 var searchData=
 [
-  ['easyc_0',['EasyC',['../class_e_a_s_y_c___s_o_l_d_e_r_e_d___l_i_b_s_1_1_easy_c.html#aea626d369c76c341ddbb3b3b56ca1466',1,'EASYC_SOLDERED_LIBS::EasyC::EasyC()'],['../class_e_a_s_y_c___s_o_l_d_e_r_e_d___l_i_b_s_1_1_easy_c.html',1,'EASYC_SOLDERED_LIBS::EasyC']]],
-  ['easyc_2ecpp_1',['easyC.cpp',['../easy_c_8cpp.html',1,'']]],
-  ['easyc_2eh_2',['easyC.h',['../easy_c_8h.html',1,'']]],
-  ['easyc_5fsoldered_5flibs_3',['EASYC_SOLDERED_LIBS',['../namespace_e_a_s_y_c___s_o_l_d_e_r_e_d___l_i_b_s.html',1,'']]],
-  ['err_4',['err',['../class_e_a_s_y_c___s_o_l_d_e_r_e_d___l_i_b_s_1_1_easy_c.html#a6f87367a851167043e2a67f6c0635683',1,'EASYC_SOLDERED_LIBS::EasyC']]]
+  ['cbuf_0',['cbuf',['../heart_rate_8cpp.html#afd2f4a77835e9d1548951ec6ba21c334',1,'heartRate.cpp']]],
+  ['check_1',['check',['../class_m_a_x30105.html#ac21d3790ffc240609844363748de3df7',1,'MAX30105']]],
+  ['checkforbeat_2',['checkForBeat',['../heart_rate_8cpp.html#a83abdb9881ef7887abffdbf639539572',1,'checkForBeat(int32_t sample):&#160;heartRate.cpp'],['../heart_rate_8h.html#a83abdb9881ef7887abffdbf639539572',1,'checkForBeat(int32_t sample):&#160;heartRate.cpp']]],
+  ['clearfifo_3',['clearFIFO',['../class_m_a_x30105.html#a427b18d0aff0b869be5d6bd4769d80d5',1,'MAX30105']]]
 ];

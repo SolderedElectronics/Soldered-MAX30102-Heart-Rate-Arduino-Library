@@ -1,4 +1,6 @@
 var searchData=
 [
-  ['initializenative_0',['initializeNative',['../class_sensor.html#adb537c76173019fddf84b2d89e6c6559',1,'Sensor::initializeNative()'],['../class_e_a_s_y_c___s_o_l_d_e_r_e_d___l_i_b_s_1_1_easy_c.html#ac5e452bb3e1a549f4947bac4b5fe430e',1,'EASYC_SOLDERED_LIBS::EasyC::initializeNative()']]]
+  ['check_0',['check',['../class_m_a_x30105.html#ac21d3790ffc240609844363748de3df7',1,'MAX30105']]],
+  ['checkforbeat_1',['checkForBeat',['../heart_rate_8cpp.html#a83abdb9881ef7887abffdbf639539572',1,'checkForBeat(int32_t sample):&#160;heartRate.cpp'],['../heart_rate_8h.html#a83abdb9881ef7887abffdbf639539572',1,'checkForBeat(int32_t sample):&#160;heartRate.cpp']]],
+  ['clearfifo_2',['clearFIFO',['../class_m_a_x30105.html#a427b18d0aff0b869be5d6bd4769d80d5',1,'MAX30105']]]
 ];

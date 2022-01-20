@@ -1,6 +1,6 @@
 var searchData=
 [
-  ['readdata_0',['readData',['../class_e_a_s_y_c___s_o_l_d_e_r_e_d___l_i_b_s_1_1_easy_c.html#a64631d9b1f7d05f32f85b547097e83b5',1,'EASYC_SOLDERED_LIBS::EasyC']]],
-  ['readme_2emd_1',['README.md',['../_r_e_a_d_m_e_8md.html',1,'']]],
-  ['readregister_2',['readRegister',['../class_e_a_s_y_c___s_o_l_d_e_r_e_d___l_i_b_s_1_1_easy_c.html#a759023180eea23f55cbb24cbd89ec3b8',1,'EASYC_SOLDERED_LIBS::EasyC']]]
+  ['head_0',['head',['../struct_m_a_x30105_1_1_record.html#ad98694822409ec649a017a3c61e0523a',1,'MAX30105::Record']]],
+  ['heartrate_2ecpp_1',['heartRate.cpp',['../heart_rate_8cpp.html',1,'']]],
+  ['heartrate_2eh_2',['heartRate.h',['../heart_rate_8h.html',1,'']]]
 ];

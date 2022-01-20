@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['err_0',['err',['../class_e_a_s_y_c___s_o_l_d_e_r_e_d___l_i_b_s_1_1_easy_c.html#a6f87367a851167043e2a67f6c0635683',1,'EASYC_SOLDERED_LIBS::EasyC']]]
+  ['else_0',['else',['../spo2__algorithm_8cpp.html#a0544c3fe466e421738dae463968b70ba',1,'spo2_algorithm.cpp']]]
 ];

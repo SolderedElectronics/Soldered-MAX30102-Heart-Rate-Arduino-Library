@@ -1,4 +1,5 @@
 var searchData=
 [
-  ['easyc_0',['EasyC',['../class_e_a_s_y_c___s_o_l_d_e_r_e_d___l_i_b_s_1_1_easy_c.html',1,'EASYC_SOLDERED_LIBS']]]
+  ['max30102_0',['MAX30102',['../class_m_a_x30102.html',1,'']]],
+  ['max30105_1',['MAX30105',['../class_m_a_x30105.html',1,'']]]
 ];

@@ -1,4 +1,5 @@
 var searchData=
 [
-  ['begin_0',['begin',['../class_e_a_s_y_c___s_o_l_d_e_r_e_d___l_i_b_s_1_1_easy_c.html#a6cc54c42df12088fb26c95d7aabb4534',1,'EASYC_SOLDERED_LIBS::EasyC::begin()'],['../class_e_a_s_y_c___s_o_l_d_e_r_e_d___l_i_b_s_1_1_easy_c.html#aaf85911806bdd2b01162047e53c0090b',1,'EASYC_SOLDERED_LIBS::EasyC::begin(uint8_t _address)']]]
+  ['available_0',['available',['../class_m_a_x30105.html#a6e4152b9461cae06782c49e9b026f6bb',1,'MAX30105']]],
+  ['averagedcestimator_1',['averageDCEstimator',['../heart_rate_8cpp.html#af4f11545a05f97c55092e7f3f01b9f59',1,'averageDCEstimator(int32_t *p, uint16_t x):&#160;heartRate.cpp'],['../heart_rate_8h.html#af4f11545a05f97c55092e7f3f01b9f59',1,'averageDCEstimator(int32_t *p, uint16_t x):&#160;heartRate.cpp']]]
 ];

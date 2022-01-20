@@ -1,4 +1,5 @@
 var searchData=
 [
-  ['address_0',['address',['../class_e_a_s_y_c___s_o_l_d_e_r_e_d___l_i_b_s_1_1_easy_c.html#a1dd9b5dd497f94fc119e877216ee51ca',1,'EASYC_SOLDERED_LIBS::EasyC']]]
+  ['_5fi2caddr_0',['_i2caddr',['../class_m_a_x30105.html#a61ba7a7ef9982c79b781c438a2fff9f7',1,'MAX30105']]],
+  ['_5fi2cport_1',['_i2cPort',['../class_m_a_x30105.html#a7ae61a07558855744a51cdbc6e6daf9b',1,'MAX30105']]]
 ];
