@@ -5,7 +5,7 @@
 
 | ![Product name](https://upload.wikimedia.org/wikipedia/commons/8/8f/Example_image.svg) |
 | :---------------------------------------------------------------------------------------------: |
-| [MAX30102](https://www.solde.red/333137)                                                            |
+| [MAX30102 Oximeter and Heart Rate Sensor](https://www.solde.red/333137)                                                            |
 
 MAX30102 compliant with [easyC ecosystem](https://www.soldered.com/easyC). 
 

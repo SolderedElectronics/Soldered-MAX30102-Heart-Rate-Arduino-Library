@@ -21,7 +21,6 @@ class MAX30102 : public SparkFun_Bio_Sensor_Hub
     MAX30102(uint16_t, uint16_t, uint8_t address = 0x55);
 
   protected:
-
   private:
 };
 
