@@ -1,34 +1,38 @@
-/*
- This example sketch gives you exactly what the SparkFun Pulse Oximiter and
- Heart Rate Monitor is designed to do: read heart rate and blood oxygen levels.
- This board requires I-squared-C connections but also connections to the reset
- and mfio pins. When using the device keep LIGHT and CONSISTENT pressure on the
- sensor. Otherwise you may crush the capillaries in your finger which results
- in bad or no results. This differs from example one by giving an additional
- two data points: an extended finger status and the r value of the blood oxygen
- level. A summary of the hardware connections are as follows: 
- SDA -> SDA
- SCL -> SCL
- RESET -> PIN 4
- MFIO -> PIN 5
+ /**
+ **************************************************
+ *
+ * @file        Example2_config_BPM_Mode2.ino
+ * @brief       This example sketch gives you exactly what the SparkFun Pulse Oximiter and
+ *              Heart Rate Monitor is designed to do: read heart rate and blood oxygen levels.
+ *              This board requires I-squared-C connections but also connections to the reset
+ *              and mfio pins. When using the device keep LIGHT and CONSISTENT pressure on the
+ *              sensor. Otherwise you may crush the capillaries in your finger which results
+ *              in bad or no results. A summary of the hardware connections are as follows: 
+ *              SDA -> SDA
+ *              SCL -> SCL
+ *              RESET -> PIN 4
+ *              MFIO -> PIN 5
+ *              
+ *              If you run into an error code check the following table to help diagnose your
+ *              problem: 
+ *              1 = Unavailable Command
+ *              2 = Unavailable Function
+ *              3 = Data Format Error
+ *              4 = Input Value Error
+ *              5 = Try Again
+ *              255 = Error Unknown
+ *
+ *
+ *              Product: https://www.solde.red/333137
+ *
+ * @authors     Author: Elias Santistevan
+ *              Date: 8/2019
+ *              SparkFun Electronics
+ *              
+ *              Modified by: Soldered
+ ***************************************************/
 
- Author: Elias Santistevan
- Date: 8/2019
- SparkFun Electronics
 
- If you run into an error code check the following table to help diagnose your
- problem: 
- 1 = Unavailable Command
- 2 = Unavailable Function
- 3 = Data Format Error
- 4 = Input Value Error
- 5 = Try Again
- 255 = Error Unknown
- 
-  Modified by: Soldered
-
-  Product: https://www.solde.red/333137
-*/
 
 #include <MAX30102-Heart-Rate-Library-SOLDERED.h>
 #include <Wire.h>

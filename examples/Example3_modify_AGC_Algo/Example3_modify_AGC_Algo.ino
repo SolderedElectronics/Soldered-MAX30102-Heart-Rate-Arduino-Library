@@ -1,32 +1,35 @@
-/*
-
- This example code is very similar to the first, however we're adjusting the
- Automatic Gain Control (AGC) Algorithm which automatically determines the
- pulse width and current consumption of the MAX30101's LEDs as it gathers data
- on light absorption. This particular setting is enabled when calling
- "configBpm" and so in this example we demonstrate how to modify the algorithm.
- SDA -> SDA
- SCL -> SCL
- RESET -> PIN 4
- MFIO -> PIN 5
-
- Author: Elias Santistevan
- Date: 8/2019
- SparkFun Electronics
-
- If you run into an error code check the following table to help diagnose your
- problem: 
- 1 = Unavailable Command
- 2 = Unavailable Function
- 3 = Data Format Error
- 4 = Input Value Error
- 5 = Try Again
- 255 = Error Unknown
- 
-  Modified by: Soldered
-
-  Product: https://www.solde.red/333137
-*/
+ /**
+ **************************************************
+ *
+ * @file        Example3_modify_AGC_Algo.ino
+ * @brief       This example code is very similar to the first, however we're adjusting the
+ *              Automatic Gain Control (AGC) Algorithm which automatically determines the
+ *              pulse width and current consumption of the MAX30101's LEDs as it gathers data
+ *              on light absorption. This particular setting is enabled when calling
+ *              "configBpm" and so in this example we demonstrate how to modify the algorithm. 
+ *              A summary of the hardware connections are as follows: 
+ *              SDA -> SDA
+ *              SCL -> SCL
+ *              RESET -> PIN 4
+ *              MFIO -> PIN 5
+ *              
+ *              If you run into an error code check the following table to help diagnose your
+ *              problem: 
+ *              1 = Unavailable Command
+ *              2 = Unavailable Function
+ *              3 = Data Format Error
+ *              4 = Input Value Error
+ *              5 = Try Again
+ *              255 = Error Unknown
+ *
+ *              Product: https://www.solde.red/333137
+ *
+ * @authors     Author: Elias Santistevan
+ *              Date: 8/2019
+ *              SparkFun Electronics
+ *              
+ *              Modified by: Soldered
+ ***************************************************/
 
 #include <MAX30102-Heart-Rate-Library-SOLDERED.h>
 #include <Wire.h>
