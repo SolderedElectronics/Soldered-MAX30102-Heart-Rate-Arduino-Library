@@ -1,35 +1,39 @@
-/*
- This example displays a more manual method of adjusting the way in which the
- MAX30101 gathers data. Specifically we'll look at how to modify the pulse
- length of the LEDs within the MAX30101 which impacts the number of samples 
- that can be gathered, so we'll adjust this value as well. In addition we 
- gather additional data from the bioData type: LED samples. This data gives 
- the number of samples gathered by the MAX30101 for both the red and IR LEDs. 
- As a side note you can also choose MODE_ONE and MODE_TWO for configSensorBpm
- as well.
- A summary of the hardware connections are as follows: 
- SDA -> SDA
- SCL -> SCL
- RESET -> PIN 4
- MFIO -> PIN 5
-
- Author: Elias Santistevan
- Date: 8/2019
- SparkFun Electronics
-
- If you run into an error code check the following table to help diagnose your
- problem: 
- 1 = Unavailable Command
- 2 = Unavailable Function
- 3 = Data Format Error
- 4 = Input Value Error
- 5 = Try Again
- 255 = Error Unknown
- 
-  Modified by: Soldered
-
-  Product: https://www.solde.red/333137
-*/
+ /**
+ **************************************************
+ *
+ * @file        Example4_config_LEDs_BPM.ino
+ * @brief       This example displays a more manual method of adjusting the way in which the
+ *              MAX30101 gathers data. Specifically we'll look at how to modify the pulse
+ *              length of the LEDs within the MAX30101 which impacts the number of samples 
+ *              that can be gathered, so we'll adjust this value as well. In addition we 
+ *              gather additional data from the bioData type: LED samples. This data gives 
+ *              the number of samples gathered by the MAX30101 for both the red and IR LEDs. 
+ *              As a side note you can also choose MODE_ONE and MODE_TWO for configSensorBpm
+ *              as well.
+ *              A summary of the hardware connections are as follows: 
+ *              SDA -> SDA
+ *              SCL -> SCL
+ *              RESET -> PIN 4
+ *              MFIO -> PIN 5
+ *              
+ *              If you run into an error code check the following table to help diagnose your
+ *              problem: 
+ *              1 = Unavailable Command
+ *              2 = Unavailable Function
+ *              3 = Data Format Error
+ *              4 = Input Value Error
+ *              5 = Try Again
+ *              255 = Error Unknown
+ *
+ *
+ *              Product: https://www.solde.red/333137
+ *
+ * @authors     Author: Elias Santistevan
+ *              Date: 8/2019
+ *              SparkFun Electronics
+ *              
+ *              Modified by: Soldered
+ ***************************************************/
 
 #include <MAX30102-Heart-Rate-Library-SOLDERED.h>
 #include <Wire.h>
